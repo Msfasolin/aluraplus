@@ -33,9 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Portfólio Básico é um agregador de links para usar como cartão de visita online.
 
-<!-- ## 🔖 Layout
+## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/CZXILbKmy9uBrKcXr91MgE/Alura-Plus---Layout-(Copy)?type=design&node-id=0%3A1&mode=design&t=5FB9vPYe89Skz5Dl-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. -->
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/CZXILbKmy9uBrKcXr91MgE/Alura-Plus---Layout-(Copy)?type=design&node-id=0%3A1&mode=design&t=5FB9vPYe89Skz5Dl-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
